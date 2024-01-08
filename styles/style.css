@@ -182,7 +182,7 @@ span {
 .container4 {
   width: 82.5%;
   max-width: 1320px;
-  height: 1000px;
+  height: 600px;
   margin: 0 auto;
   background: #fff;
   display: flex;
@@ -239,17 +239,135 @@ span {
   line-height: 32px; /* 160% */
   padding-left: 118px;
 }
-.banner-img2{
-    margin-right: 50px;
+.banner-img2 {
+  margin-right: 50px;
 }
-.banner-img2 img{
-    border: 15px solid #f00;
-    border-radius: 50%;
-    padding: 20px;
+.banner-img2 img {
+  border: 15px solid #f00;
+  border-radius: 50%;
+  padding: 20px;
 }
-.line9 img{
-    margin-left: 118px;
+.line9 img {
+  margin-left: 118px;
 }
-.line9{
-    padding-right:40px;
+.line9 {
+  padding-right: 40px;
+}
+
+/*This is sixth section CSS part of this assignment  */
+.container5 {
+  width: 82.5%;
+  max-width: 1320px;
+  margin: 0 auto;
+}
+.title5 {
+  color: #f00;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-bottom: 16px;
+}
+.title6 {
+  color: #070211;
+  font-family: Merriweather;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  text-transform: capitalize;
+  margin-bottom: 22px;
+}
+
+.title7 {
+  color: rgba(7, 2, 17, 0.6);
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  margin-bottom: 48px;
+}
+
+.abc {
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+/*This is seventh section CSS part of this assignment  */
+
+.container6 {
+  width: 82.5%;
+  max-width: 1320px;
+  height: 620px;
+  margin: 0 auto;
+  border-radius: 16px;
+  background: rgba(255, 0, 0, 0.05);
+}
+.line13 {
+  text-align: center;
+}
+.title8 {
+  color: #070211;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  text-transform: capitalize;
+}
+.title9 {
+  color: rgba(7, 2, 17, 0.6);
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.line13 .img1{
+    padding-top: 80px;
+    padding-bottom: 40px;
+    padding-right: 585px;
+    padding-left: 585px;
+}
+.line13 .title8{
+    padding-right: 404px;
+    padding-left: 404px;
+    padding-bottom: 22px;
+}
+.line13 .title9{
+    padding: 0 212px;
+}
+.subscribe input{
+    width: 400px;
+    height: 50px;
+    border: none;
+    padding: 0 16px;
+    position: relative;
+    border-radius: 20px;
+    background-color: #fff;
+}
+.subscribe button{
+    width: 160px;
+    height: 50px;
+    border: none;
+    background-color: #f00;
+    color: #fff;
+    position: relative;
+    border-radius: 0px 50px 50px 0;
+    margin-right: 336px;
+}
+
+/*This is eight section CSS part of this assignment  */
+.container7{
+    width: 100%;
+    max-width: 1320px;
+    height: 610px;
+    margin: 0 auto;
+    background: #070211;
+    color: #fff;
+}
+.container7 .line14{
+    display: flex;
 }
